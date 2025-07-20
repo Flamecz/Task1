@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "Basic todo list for beginer",
+  "keywords": [
+    "ok"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "license": "UNLICENSED",
+  "author": "Petr Španěl",
+  "type": "module",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
